@@ -7,7 +7,7 @@ src_with_integrals contains an implementation of the calculation of the integral
 
 We made it run both locally and on Politecnico di Milano's supercluster.
 
-Please read PrionDeseade.pdf (it's without animations).
+Please read PrionDeseade.pdf (unfortunately, animations are not included in it, given the format limitations.).
 
 Here is a preview:
 
